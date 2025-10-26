@@ -6,8 +6,8 @@ Date: October 2025
 
 1. Introduction
     Analyzing employment data across Indian states is essential for understanding labor market dynamics and supporting SDG 8: Decent Work and Economic Growth. This project uses Python to process and visualize employment rates and workforce sizes, highlighting regional disparities and economic patterns.
-2. Objectives
 
+2. Objectives
 To analyze employment rates and workforce sizes across Indian states
 To visualize disparities and trends using Python
 To demonstrate practical use of data science in socio-economic analysis
