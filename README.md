@@ -1,5 +1,5 @@
 # empolyment-trend-across-indian-states
-Title: Employment Trends Analysis Across Indian States – 2024
+Title: Employment Trends Analysis Across Indian States 
 Submitted by: Lalith Khala.P ,Mathumitha sree.M [CSE-B]
 Institution: SRM TRP ENGINEERING COLLEGE
 Date: October 2025
